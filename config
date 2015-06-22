@@ -159,4 +159,5 @@ bar {
 exec xsetroot -solid "#333333"
 
 # Lock screen
-bindsym $mod+Pause exec --no-startup-id i3lock
+bindsym $mod+Pause exec --no-startup-id i3lock -c 333333
+
