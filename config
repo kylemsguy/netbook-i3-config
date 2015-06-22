@@ -157,3 +157,6 @@ bar {
 
 # Set wallpaper colour
 exec xsetroot -solid "#333333"
+
+# Lock screen
+bindsym $mod+Pause exec --no-startup-id i3lock
